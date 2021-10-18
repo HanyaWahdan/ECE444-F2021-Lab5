@@ -1,0 +1,13 @@
+/* results.css style sheet */
+
+#results-page-table-container{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	padding: 20px;
+	border-collapse: separate;
+
+}
