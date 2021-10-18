@@ -9,6 +9,9 @@ The new UI is a lot more user-friendly and compartmentalized. It allows the user
 
 Note: For some reason, the border of search and center-alignment of education pathways would not work for me even though they are included in the code and I made sure that there is no typo or any such thing, so I am not sure where I went wrong. Please find attached snippets of code as proof:
 
+<img width="258" alt="Screen Shot 2021-10-17 at 11 57 27 PM" src="https://user-images.githubusercontent.com/53177360/137667159-7a9d0bb9-3e8a-4e38-993d-ada7f82cbc86.png">
+
+
 
 
 # CARTE Education Pathways
