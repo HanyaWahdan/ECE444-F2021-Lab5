@@ -1,3 +1,16 @@
+## Screenshot of Activities Required
+
+<img width="1530" alt="Screen Shot 2021-10-17 at 11 34 46 PM" src="https://user-images.githubusercontent.com/53177360/137666841-b8557335-3399-4136-b6fb-a9380516e11c.png">
+
+
+<img width="1675" alt="Screen Shot 2021-10-17 at 11 35 01 PM" src="https://user-images.githubusercontent.com/53177360/137666845-2f97254b-0185-4499-9857-dcb9e08b73a5.png">
+
+The new UI is a lot more user-friendly and compartmentalized. It allows the user to see distinct secitons, and the color contrst also helps in the organization of the data for the user.
+
+Note: For some reason, the border of search and center-alignment of education pathways would not work for me even though they are included in the code and I made sure that there is no typo or any such thing, so I am not sure where I went wrong. Please find attached snippets of code as proof:
+
+
+
 # CARTE Education Pathways
 
 ## Description
